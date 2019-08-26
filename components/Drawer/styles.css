@@ -1,0 +1,9 @@
+/* */
+.inner {
+  overflow: hidden;
+  transition: height 0.25s;
+}
+
+.closed {
+  height: 0;
+}
